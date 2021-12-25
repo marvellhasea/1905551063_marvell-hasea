@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">e-form Mahasiswa</string>
+    <string-array name="programStudi">
+        <item>Manajemen</item>
+        <item>Ekonomi Pembangunan</item>
+        <item>Pendidikan Ekonomi</item>
+        <item>Akuntansi</item>
+        <item>Bisnis Digital</item>
+        <item>Kewirausahaan</item>
+        <item>Pendidikan Akuntansi</item>
+    </string-array>
+</resources>
